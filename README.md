@@ -4,7 +4,7 @@ basic experimental design calculator
 
 ## Description
 Jaquelyne Calculator is a project developed for logic training and mobile development.
-The main functionality is to perform basic calculations implemented in a calculator, and the image was in honor of a friend lol.
+The main functionality is to perform basic calculations implemented in a calculator, and the image was in honor of a person who is becoming very special in my life lol.
 
 ![Alt Text](src/img/Screenshot.jpg)
 
