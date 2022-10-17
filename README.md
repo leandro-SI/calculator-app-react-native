@@ -22,7 +22,7 @@ The main functionality is to perform basic calculations implemented in a calcula
 
 ```
   
-  git clone https://github.com/SevenCoders-Academy/starwars-wiki-expo
+  git clone https://github.com/leandro-SI/calculator-app-react-native
   
   cd calculator-app-react-native
   
